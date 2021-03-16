@@ -12,7 +12,7 @@ It uses [Chris Oakman's awesome viml implementation](https://github.com/oakmac/p
 
 ```
 cd ~/.vim/bundle
-git clone git://github.com/bhurlow/vim-parinfer.git
+git clone git://github.com/jasonverbeek/vim-parinfer.git
 ```
 ### using Vundle:
 
